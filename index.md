@@ -1,2 +1,2 @@
 # Hello
-[Link](../World/Concept/Concept.md)
+[Link](World/Concept/Concept.md)
