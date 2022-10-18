@@ -1,2 +1,2 @@
 # Hello
-[Link](Greg)
+[Link](Greg.md)
